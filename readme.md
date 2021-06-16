@@ -1,3 +1,5 @@
+The query evaluation in chapter-1 needs us to load the "validation lab" files
+
 ```
 var pipeline = [
   {
